@@ -1,10 +1,10 @@
 # freeCodeCamp-Core-Curriculum
 - https://www.freecodecamp.org/learn
 
-![cafe menu](cafe_menu.png)
+<img src='assets/curriculum.png' width=50%>
 
 ### Cat Photo App
-![cat photo app](assets/cat_photo_app.gif)
+<img src='assets/cat_photo_app.gif' width=50%>
 
 ### Cafe Menu
-![cafe menu](assets/cafe_menu.png)
+<img src='assets/cafe_menu.png' width=50%>
