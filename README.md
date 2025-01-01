@@ -4,7 +4,7 @@
 
 # 01 Responsive Web Certification
 
-## 01-1 Cat Photo App
+### 01-1 Cat Photo App
 <img src='assets/cat_photo_app.gif' width=70%>
 
 ### 01-2 Cafe Menu
