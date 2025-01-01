@@ -7,4 +7,4 @@
 <img src='assets/cat_photo_app.gif' width=50%>
 
 ### Cafe Menu
-<img src='assets/cafe_menu.png' width=50%>
+<img src='assets/cafe_menu.gif' width=50%>
